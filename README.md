@@ -6,5 +6,9 @@ Application Python permettant de gérer un catalogue de livres.
 
 \## Auteurs
 
-\- Yassamine boukhana
+\- Yassamine Boukhana
+
+\## Exécution
+
+python -m bibliotheque.main
 
