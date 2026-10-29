@@ -6,5 +6,7 @@ Application Python permettant de gérer un catalogue de livres.
 
 \## Auteurs
 
-\- Yassamine boukhana
+\- Yassamine Boukhana
+
+\- Recherche par titre, auteur et ISBN
 
