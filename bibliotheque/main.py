@@ -28,6 +28,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-   ## Fonctionnalités
- - Ajout et recherche de livres
+   # Fonctionnalités
+   # Ajout et recherche de livres
 
