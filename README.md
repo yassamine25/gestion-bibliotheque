@@ -8,18 +8,19 @@ Prérequis : Python 3.9 ou supérieur.
 
 
 
-\## Auteurs
+## Auteurs
 
-\- Yassamine Boukhana
+- Yassamine Boukhana
 
-\- Recherche par titre, auteur et ISBN
+- Recherche par titre, auteur et ISBN
+
+- Suppression d'un livre par ISBN
 
 
 
-\## Contribuer
+## Contribuer
 
 
 
 Consultez [CONTRIBUTING.md](CONTRIBUTING.md) avant d'ouvrir une pull request.
-
 
