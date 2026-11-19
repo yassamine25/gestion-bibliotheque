@@ -11,6 +11,7 @@ Prérequis : Python 3.9 ou supérieur.
 ## Auteurs
 
 - Yassamine Boukhana
+- Yassamine Boukhana (contribution externe - membre B)
 
 - Recherche par titre, auteur et ISBN
 
